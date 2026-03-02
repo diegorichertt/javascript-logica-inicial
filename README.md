@@ -1,31 +1,36 @@
-# JavaScript — Exercícios de Lógica e Fundamentos
+# JavaScript — Fundamentos e Lógica de Programação
 
-Este repositório reúne exercícios práticos de JavaScript focados na revisão e fortalecimento dos conceitos fundamentais da linguagem.
+Este repositório reúne exercícios práticos desenvolvidos durante a retomada dos meus estudos em JavaScript, com foco no fortalecimento da base lógica e na construção de consistência na prática de desenvolvimento.
 
 ## 🎯 Objetivo
 
-Retomar os estudos em JavaScript, reforçar a base de lógica de programação e construir consistência na prática de desenvolvimento, com foco em evolução para projetos reais e inserção no mercado de tecnologia.
+Revisar conceitos fundamentais da linguagem e evoluir gradualmente para projetos mais estruturados, conectando lógica de programação com futuros sistemas web e integração com banco de dados.
 
-## 📚 Conteúdos praticados
+## 📚 Conceitos praticados
 
 - Entrada de dados com prompt
 - Exibição de resultados com alert
-- Variáveis e constantes
+- Variáveis e constantes (let / const)
 - Conversão de tipos (Number)
-- Operações matemáticas
-- Estruturas condicionais (if / else)
-- Comparação de valores
-- Atualização de variáveis com operadores compostos (+=, -=)
-- Lógica de regras de negócio
+- Estruturas condicionais (if / else / switch)
+- Estruturas de repetição (while)
+- Operadores compostos (+=, -=)
+- Menus interativos
+- Controle de estado em programas
+- Aplicação de regras de negócio
 
 ## 🧩 Exercícios desenvolvidos
 
 - Cadastro de Recrutas
 - Calculadora de 4 Operações
 - Teste de Velocidade entre Veículos
-- Sistema de Cálculo de Dano entre Personagens
+- Cálculo de Dano entre Personagens
+- Conversor de Medidas
+- Visitando Novas Cidades
+- Menu Interativo
+- Controle Financeiro
 
-## 🛠 Tecnologias utilizadas
+## 🛠 Tecnologias
 
 - JavaScript
 - HTML básico para execução no navegador
@@ -33,13 +38,13 @@ Retomar os estudos em JavaScript, reforçar a base de lógica de programação e
 
 ## 🚀 Próximos passos
 
-- Criar interações diretamente na página (sem alert)
-- Organizar exercícios como mini projetos web
-- Integrar com backend futuramente
-- Evoluir para projetos completos para portfólio
+- Substituir alert/prompt por interface web
+- Transformar exercícios em mini aplicações
+- Integrar lógica com banco de dados PostgreSQL
+- Publicar projetos completos no portfólio
 
 ## 👨‍💻 Autor
 
 Diego Henrique Richertt  
 Estudante de Sistemas de Informação  
-Foco em desenvolvimento de software e construção de portfólio prático
+Corredor de rua e desenvolvedor em formação
