@@ -1,50 +1,108 @@
-# JavaScript — Fundamentos e Lógica de Programação
+JavaScript — Fundamentos e Lógica de Programação
 
 Este repositório reúne exercícios práticos desenvolvidos durante a retomada dos meus estudos em JavaScript, com foco no fortalecimento da base lógica e na construção de consistência na prática de desenvolvimento.
 
-## 🎯 Objetivo
+
+🎯 Objetivo
 
 Revisar conceitos fundamentais da linguagem e evoluir gradualmente para projetos mais estruturados, conectando lógica de programação com futuros sistemas web e integração com banco de dados.
 
-## 📚 Conceitos praticados
+O foco é dominar a base antes de avançar.
 
-- Entrada de dados com prompt
-- Exibição de resultados com alert
-- Variáveis e constantes (let / const)
-- Conversão de tipos (Number)
-- Estruturas condicionais (if / else / switch)
-- Estruturas de repetição (while)
-- Operadores compostos (+=, -=)
-- Menus interativos
-- Controle de estado em programas
-- Aplicação de regras de negócio
 
-## 🧩 Exercícios desenvolvidos
+📚 Conceitos praticados
 
-- Cadastro de Recrutas
-- Calculadora de 4 Operações
-- Teste de Velocidade entre Veículos
-- Cálculo de Dano entre Personagens
-- Conversor de Medidas
-- Visitando Novas Cidades
-- Menu Interativo
-- Controle Financeiro
 
-## 🛠 Tecnologias
+Entrada de dados com prompt
 
-- JavaScript
-- HTML básico para execução no navegador
-- VSCode
+Exibição de resultados com alert
 
-## 🚀 Próximos passos
+Variáveis e constantes (let / const)
 
-- Substituir alert/prompt por interface web
-- Transformar exercícios em mini aplicações
-- Integrar lógica com banco de dados PostgreSQL
-- Publicar projetos completos no portfólio
+Conversão de tipos (Number)
 
-## 👨‍💻 Autor
+Estruturas condicionais (if / else / switch)
 
-Diego Henrique Richertt  
-Estudante de Sistemas de Informação  
+Estruturas de repetição (while, do while, for)
+
+Operadores compostos (+=, -=)
+
+Manipulação de strings
+
+Uso de length e índices
+
+Arrays
+
+Métodos de array:
+
+push()
+
+pop()
+
+shift()
+
+Estruturas de dados:
+
+Fila (FIFO)
+
+Pilha (LIFO)
+
+Menus interativos
+
+Controle de estado em programas
+
+Aplicação de regras de negócio
+
+
+🧩 Exercícios desenvolvidos
+
+
+Cadastro de Recrutas
+
+Calculadora de 4 Operações
+
+Teste de Velocidade entre Veículos
+
+Cálculo de Dano entre Personagens
+
+Conversor de Medidas
+
+Visitando Novas Cidades
+
+Menu Interativo
+
+Controle Financeiro
+
+Robô da Tabuada
+
+Verificador de Palíndromos
+
+Fila de Espera (Simulação de Consultório)
+
+Pilha de Cartas (Simulação de Baralho)
+
+🛠 Tecnologias
+
+JavaScript
+
+HTML básico para execução no navegador
+
+VSCode
+
+
+🚀 Próximos passos
+
+Substituir alert/prompt por interface web
+
+Transformar exercícios em mini aplicações
+
+Integrar lógica com banco de dados PostgreSQL
+
+Publicar projetos completos no portfólio
+
+
+👨‍💻 Autor
+
+Diego Henrique Richertt
+Estudante de Sistemas de Informação
 Corredor de rua e desenvolvedor em formação
